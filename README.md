@@ -1,4 +1,4 @@
-<img src="https://i2.wp.com/secreteast.ca/wp-content/uploads/2019/03/myspace.jpg"/>
+<img src="https://i2.wp.com/secreteast.ca/wp-content/uploads/2019/03/myspace.jpg" style={{width: "100%"}}/>
 
 ### Oh hey 👋
 
