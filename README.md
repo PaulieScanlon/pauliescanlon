@@ -1,4 +1,4 @@
-<img src="https://i2.wp.com/secreteast.ca/wp-content/uploads/2019/03/myspace.jpg" style="width:100%"/>
+<img src="https://res.cloudinary.com/www-paulie-dev/image/upload/f_auto,g_auto/v1597776916/myspace_kdabja.jpg"/>
 
 ### Oh hey 👋
 
